@@ -1,0 +1,156 @@
+.top-container {
+  background-color: #EAF6F6;
+  padding-top: 100px;
+}
+
+.middle-container {}
+
+.bottom-container {
+  background-color: #66BFBF;
+  margin-top:20px;
+  padding:40px 0 20px 0;
+}
+
+
+body {
+  text-align: center;
+  margin: 0;
+  position: relative;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  margin: 0;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+.getintouch {}
+
+.h3_1 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  padding-top: 70px;
+}
+
+.h3_2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  padding-top: 40px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 280px;
+  top: 320px;
+}
+
+.mypic {
+  width: 200px;
+  height: 200px;
+  padding: 80px 0 40px 0;
+}
+
+.introtext {
+  color: #40514E;
+  line-height: 2;
+  padding-top: 10px;
+  padding-bottom: 80px;
+}
+
+hr {
+  width: 5%;
+  padding-bottom: 80px;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 7px;
+  border-color: #EAF6F6;
+}
+
+.computerpic {
+  width: 250px;
+  height: 250px;
+  float: left;
+  padding: 30px 30px 0 50px;
+  margin-left: 200px;
+}
+
+.skill-row {
+  text-align: left;
+  line-height: 2;
+}
+
+.contactme {
+  position: relative;
+  padding-top: 100px;
+}
+
+.p2 {
+  padding-bottom: 90px;
+}
+
+.hr2 {
+  position: absolute;
+  left: 650px;
+  padding: 50px 0 100px 0;
+  width: 5%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 7px;
+  border-color: #EAF6F6;
+}
+
+.h2_2 {
+  padding-top: 60px;
+}
+
+.getintouch {
+  padding-top: 0px;
+}
+.lastpara{
+  line-height: 2;
+}
+.myButton {
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:21px;
+	padding:7px 37px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+a{
+  color:#11999E;
+  margin:10px 20px;
+  font-family: Montserrat;
+  text-decoration: none;
+}
+a:hover{
+  color:#EAF6F6;
+}
